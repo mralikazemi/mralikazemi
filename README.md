@@ -27,22 +27,22 @@
   </li>
 </ul>
 <hr>
-<p align="center"><strong>Languages:</strong><br><br>
+<p><strong>Languages:</strong><br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,c" />
   </a>
 </p>
-<p align="center"><strong>Database:</strong><br><br>
+<p><strong>Database:</strong><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgresql" />
   </a>
 </p>
-<p align="center"><strong>Front end:</strong><br><br>
+<p><strong>Front end:</strong><br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css" />
   </a>
 </p>
-<p align="center"><strong>Tools:</strong><br><br>
+<p><strong>Tools:</strong><br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,selenium" />
   </a>
