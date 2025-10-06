@@ -2,9 +2,9 @@
 <ul type="disc">
   <strong>⚪️ About me:</strong>
   <li>🌱 Always Learning...</li>
-  <li>🔋 Working on Telegram Advanced Bots</li>
   <li>🕹 Gemes</li>
   <li>🎬 Movies</li>
+  <li>🔋 Working on Telegram Advanced Bots</li>
 </ul>
 <br>
 <ul type="circle">
@@ -37,13 +37,13 @@
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgresql" />
   </a>
 </p>
-<p><strong>Front end:</strong><br><br>
+<!-- <p><strong>Front end:</strong><br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css" />
   </a>
-</p>
+</p> -->
 <p><strong>Tools:</strong><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,selenium" />
+    <img src="https://skillicons.dev/icons?i=git,github,selenium,regex" />
   </a>
 </p>
