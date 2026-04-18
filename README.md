@@ -29,19 +29,19 @@
 <hr>
 <p><strong>Languages:</strong><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,c" />
+    <img src="https://skillicons.dev/icons?i=py,js,cpp,c" />
   </a>
 </p>
 <p><strong>Database:</strong><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgresql,sqlserver" />
   </a>
 </p>
-<!-- <p><strong>Front end:</strong><br><br>
+<p><strong>Front end:</strong><br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css" />
   </a>
-</p> -->
+</p>
 <p><strong>Tools:</strong><br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,selenium,regex" />
